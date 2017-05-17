@@ -1,0 +1,12 @@
+{
+	"dbURL":"mongodb://premaddx619:restinpeace619@ds143071.mlab.com:43071/chatcat_prem",
+	"sessionSecret":"ADJALDKSDLA",
+	"fb":{
+		"appID":"262501427555181",
+		"appSecret":"f66ac40abebbcd243b796bba1e936147",
+		"callbackURL":"http://chatcat-prem.herokuapp.com/auth/facebook/callback"
+	},
+	"host":"http://chatcat-prem.herokuapp.com"
+
+
+}
